@@ -3,5 +3,6 @@ import javax.swing.*;
 public class MainFrame extends JFrame {
     public MainFrame(){
         setTitle("Piskvorky");
+        System.out.println("martin je teply");
     }
 }
